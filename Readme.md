@@ -3,6 +3,9 @@ Monthly expenditure of a family stored in a application, in this we took DataBas
 
 # Tech-Stack :
 1. Server [take with high configuration and volume size also 70gb] : 1 no [Docker,Aws EKS]
+
+# Architecture-Diagram :
+
    
 Step 1: Clone the Repository
 
