@@ -5,7 +5,9 @@ Monthly expenditure of a family stored in a application, in this we took DataBas
 1. Server [take with high configuration and volume size also 70gb] : 1 no [Docker,Aws EKS]
 
 # Architecture-Diagram :
+# 3 Tier Architecture
 
+![alt text](3-tier-expense.svg)
    
 Step 1: Clone the Repository
 
