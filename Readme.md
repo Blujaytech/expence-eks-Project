@@ -1,3 +1,8 @@
+# Project-Overview : Monthly expenditure of a family stored in a application, 
+in this we took DataBase[mysql], Backend[nodejs], Frontend [nginx].
+# Tech-Stack :
+1. Server [take with high configuration and volume size also 70gb] : 1 no [Docker,Aws EKS]
+   
 Step 1: Clone the Repository
 
 First, clone the project from GitHub:
